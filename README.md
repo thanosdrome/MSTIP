@@ -2,6 +2,12 @@
 
 <p>Created and managed cloud infrastructure using Terraform to deploy a fully automated and scalable web application architecture on AWS. This project involves setting up networking, compute resources, storage, and security policies, all through code. </p>
 
+<p>Key Highlights:
+Scalability: Implemented autoscaling to handle traffic spikes seamlessly.<br>
+Security: Configured secure networking using VPCs, subnets, and IAM roles/policies.<br>
+Resilience: Deployed resources across multiple availability zones for high availability.</p>
+
+
 # Architecture
 ![Screenshot 2024-12-08 114931](https://github.com/user-attachments/assets/aa60770f-dc54-43ff-96a6-af9f4f5c9597)
 
